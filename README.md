@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prerna Goswami
 - 👀 Interested in building skills
-- 🌱 I’m currently learning Html and CSS
+- 🌱 Currently learning Javascript
 - 📫 How to reach me - prernag.sky@gmail.com
 - 😄 Pronouns: She/her
  
