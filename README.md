@@ -3,6 +3,7 @@
 - 🌱 Currently learning Javascript
 - 📫 How to reach me - prernag.sky@gmail.com
 - 😄 Pronouns: She/her
+- 👩‍💻I will love to collaborate for Backend Programming
  
 
 <!---
